@@ -2,7 +2,7 @@
 Applied Statistical Methods - Project 2
 Assassination Classroom
 
-Not so long ago I received very sensitive information notifying me that aliens were going to try to invade the Earth. One alien had managed to infiltrate the planet by kidnapping and then taking the form of Wayne Lee. Alien Wayne set base in Missoula, Montana, where he was making preparations for Earth’s invasion. It was fortunate my sources managed to get GPS data from Wayne’s phone for two weeks. Using that information, I will try to plant two bombs in Alien Wayne’s path to save the world, after all, 2020 has been crazy enough, we don’t need aliens.  Using this information, I devised a Bomb Plan, as follows: 
+Not too long ago I received very sensitive information notifying me that Martians were trying to invade the Earth. One very smart Martian had managed to infiltrate the planet by kidnapping and then taking the form of Wayne Lee. Alien Wayne set base in Missoula, Montana, where he was preparing for Earth’s invasion. It was fortunate my sources managed to get GPS data from Wayne’s phone for two weeks. Using that information, I will try to plant two bombs in Alien Wayne’s path to save the world. After all, 2020 has been crazy enough. Using this information, I devised a Bomb Plan, as follows: 
 
 1.	Observe Wayne’s moving behavior: I will examine Wayne’s daily routine for two weeks based on his GPS data.
 
